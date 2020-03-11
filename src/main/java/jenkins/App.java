@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hi,welcome to micro geninsis" );
+        System.out.println( "hi" );
     }
 }
