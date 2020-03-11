@@ -67,7 +67,7 @@
         </plugin>
         <plugin>
           <artifactId>maven-project-info-reports-plugin</artifactId>
-          <p>hi</p>
+          
           <version>3.0.0</version>
         </plugin>
       </plugins>
